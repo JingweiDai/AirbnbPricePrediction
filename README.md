@@ -1,2 +1,5 @@
 # AirbnbPricePrediction
-This is our course project (joint work with Jieteng Chen) for Machine Learning: Algorithms and Applications. (It is a cross-institutional course.) We use natural language processing methods for the sentiment analysis of all the houses' reviews in the NYC listings, and then use OpenCV methods to get the color tone of the listing pictures (warm-cool color tone). After these two steps, We combine other features and use regression methods, such as linear regression and random forest to predict their prices. The results show that the model works well.
+
+		Employed natural language processing methods for the sentiment analysis of all the houses' reviews in the New York City listings on Airbnb
+		Leveraged OpenCV methods to get the color tone of the listing pictures (warm-cool color tone)
+		Combined a series of features and use regression-based methods, such as linear regression and random forest to predict house listing prices, with good prediction accuracy
